@@ -6,7 +6,6 @@
     "start": "node src/index.js",
     "test": "jest --testMatch='**/?(*.)+(test).js'"
   },
-  "dependencies": {},
   "devDependencies": {
     "jest": "^29.7.0"
   }
